@@ -1,0 +1,7 @@
+name: wanted
+main: net.letcute.wanted.Wanted
+version: 1.0-SNAPSHOT
+api-version: 1.15
+depend:
+  - PlaceholderAPI
+  - Vault

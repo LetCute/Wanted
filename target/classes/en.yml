@@ -1,0 +1,10 @@
+player-not-found: "&4Player %s is not online "
+number-error: "Money must be a number."
+
+wanted-player-exists-success: "%s bounty has been increased to %s money by %s"
+wanted-player-success: "Player %s Wanted for %s Money by %s"
+wanted-not-enough-money: "The money you enter is greater than your current money."
+wanted-player-money: "Player %s killed wanted %s and received %s money"
+
+wanted-top: "%d. %s - $%s"
+

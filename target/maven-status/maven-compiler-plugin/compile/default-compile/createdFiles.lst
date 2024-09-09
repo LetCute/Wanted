@@ -1,0 +1,10 @@
+net\letcute\wanted\language\Language.class
+net\letcute\wanted\Database.class
+net\letcute\wanted\Wanted.class
+net\letcute\wanted\Database$TopPlayerMoney$TopPlayerMoneyBuilder.class
+net\letcute\wanted\Config\Config.class
+net\letcute\wanted\hook\WantedPlaceholderAPI.class
+net\letcute\wanted\command\WantedCommand.class
+net\letcute\wanted\EventListener.class
+net\letcute\wanted\FormatNumber.class
+net\letcute\wanted\Database$TopPlayerMoney.class
