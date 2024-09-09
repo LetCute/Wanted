@@ -1,7 +1,7 @@
 # Wanted Plugin
 
 ## Description
-The **Wanted** plugin for Spigot allows players to place bounties on others. When a player with a bounty is killed, the killer receives the reward, and the player with the bounty loses the specified amount of money.
+The **Wanted** plugin for Spigot allows players to place bounties on others. When a player with a bounty is killed, the killer will receive the bounty that others placed on it, which can be stacked from multiple players.
 
 ## Commands
 - **`/wanted [player] [money]`**: Place a bounty on a player.
